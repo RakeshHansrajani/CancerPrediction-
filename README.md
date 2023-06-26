@@ -20,7 +20,7 @@ The objective of this project is to predict whether a patient has breast cancer 
 11. Diagnosis: Whether the patient has cancer or not ('Malignant', 'Benign')
 <br>The dataset includes the mean, standard error, and "worst" (mean of the three largest values) of these features for each image, resulting in a total of 30 features. For example, field 3 represents the mean radius, field 13 represents the radius standard error, and field 23 represents the worst radius.
 
-# Scope
+### Scope
 This project will involve the following steps:<br>
 **Data Pre-processing**: We will understand the basic structure and perform necessary data cleaning, handling missing values, handling duplicate values.<br>
 **Exploratory Data Analysis (EDA)**: We will conduct an initial exploration of the dataset to perform Univariate, Bivariate, Multivariate Analysis and find patterns in the data. Also, we will treat outliers. <br>
@@ -28,5 +28,5 @@ This project will involve the following steps:<br>
 **Model Evaluation**: We will tabulate and evaluate the performance of all trained models using appropriate evaluation metrics and assess their predictive capabilities.<br>
 **Learning Outcome**: Through this project, you will gain a better understanding of exploratory data analysis, data preprocessing, and knowledge of various machine learning algorithms. You will also develop skills in model evaluation, and drawing insights from the results.<br>
 
-# Conclusion
+### Conclusion
 By completing this project, you will gain practical experience in analyzing medical data, building classification models for breast cancer prediction, and evaluating the performance of all algorithms using various metrics. You will also learn about hyperparameter tuning techniques to improve the model's accuracy and effectiveness. This project will enhance your understanding of the relationships among variables and enable you to apply similar techniques in future predictive tasks.
